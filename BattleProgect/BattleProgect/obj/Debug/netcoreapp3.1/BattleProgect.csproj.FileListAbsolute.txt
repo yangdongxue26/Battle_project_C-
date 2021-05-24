@@ -1,0 +1,13 @@
+D:\程序练习的文件夹\C#\BattleProgect\BattleProgect\bin\Debug\netcoreapp3.1\BattleProgect.exe
+D:\程序练习的文件夹\C#\BattleProgect\BattleProgect\bin\Debug\netcoreapp3.1\BattleProgect.deps.json
+D:\程序练习的文件夹\C#\BattleProgect\BattleProgect\bin\Debug\netcoreapp3.1\BattleProgect.runtimeconfig.json
+D:\程序练习的文件夹\C#\BattleProgect\BattleProgect\bin\Debug\netcoreapp3.1\BattleProgect.runtimeconfig.dev.json
+D:\程序练习的文件夹\C#\BattleProgect\BattleProgect\bin\Debug\netcoreapp3.1\BattleProgect.dll
+D:\程序练习的文件夹\C#\BattleProgect\BattleProgect\bin\Debug\netcoreapp3.1\BattleProgect.pdb
+D:\程序练习的文件夹\C#\BattleProgect\BattleProgect\obj\Debug\netcoreapp3.1\BattleProgect.csprojAssemblyReference.cache
+D:\程序练习的文件夹\C#\BattleProgect\BattleProgect\obj\Debug\netcoreapp3.1\BattleProgect.AssemblyInfoInputs.cache
+D:\程序练习的文件夹\C#\BattleProgect\BattleProgect\obj\Debug\netcoreapp3.1\BattleProgect.AssemblyInfo.cs
+D:\程序练习的文件夹\C#\BattleProgect\BattleProgect\obj\Debug\netcoreapp3.1\BattleProgect.csproj.CoreCompileInputs.cache
+D:\程序练习的文件夹\C#\BattleProgect\BattleProgect\obj\Debug\netcoreapp3.1\BattleProgect.dll
+D:\程序练习的文件夹\C#\BattleProgect\BattleProgect\obj\Debug\netcoreapp3.1\BattleProgect.pdb
+D:\程序练习的文件夹\C#\BattleProgect\BattleProgect\obj\Debug\netcoreapp3.1\BattleProgect.genruntimeconfig.cache
